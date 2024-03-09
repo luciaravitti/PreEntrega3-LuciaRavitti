@@ -1,0 +1,90 @@
+*{margin:0;
+    padding:0;
+    box-sizing: border-box;}
+
+    body{ background-color: rgb(132, 216, 111) ;
+    font-family: Arial, Helvetica, sans-serif;}
+
+    header{ background-color: rgb(132, 216, 111);
+    }
+    header { text-align: center;
+    }
+    header  .logo{
+        width: 100px;
+        border-radius: 50%;
+    }
+    .titulo{text-align: center;
+        color: rgb(156, 104, 78);
+        size: 250px;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        
+    }
+
+
+    .subtitulo {text-align: center;
+        color: rgb(156, 104, 78);
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 20px;}
+
+    .contacto{ text-align: left;
+    color:rgb(156, 104, 78) ;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+
+    nav{ padding: 1rem;}
+
+    .menu{list-style-type: none;
+    margin: 10px;
+background-color: rgb(156, 104, 78) ;}
+
+.menu li{ display:inline-block;
+    text-align: center;
+    margin: 10px;
+    background-color:rgb(156, 104, 78) ;
+    padding: 20px;
+    font-size: 35px;
+ 
+    font-family: Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+}
+.menu li a{text-decoration: none;
+color: rgb(132, 216, 111);}
+
+.menu li a:hover{ background-color:rgb(132, 216, 111);
+color:rgb(156, 104, 78) ;
+border-radius: 10px;}
+
+main section{ text-align:center;}
+ 
+.parrafo{text-align: center;
+    color: rgb(156, 104, 78);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+padding: 20px;
+font-size: 35px;
+border-radius: 20px;
+border-color:rgb(156, 104, 78) ; 
+}
+
+.nosotros{ text-align: justify;
+    color: rgb(156, 104, 78) ;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+padding: 20px;
+font-size: 2 rem;
+line-height: 2;}
+
+.gracias{ text-align: center;}
+
+
+.contactos{ text-align: center;
+    font-size: 50 px;
+    color:white}
+
+
+    .prueba{ color: rgb(132, 216, 111);
+        background-color:rgb(156, 104, 78);
+        text-align: center;
+    }
+
+    .mapa{text-align: center;
+    width: 50%;}
